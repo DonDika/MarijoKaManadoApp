@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Marijo Ka Manado</string>
+    <string name="name_wisata">Nama Wisata</string>
+    <string name="content_intro">Value Intro</string>
+    <string name="overview">overview</string>
+    <string name="tourism_overview"> Overview</string>
+    <string name="content_overview">content overview</string>
+    <string name="name_me">Ikhsan Cahya Mardika</string>
+    <string name="email_me">ikhsancahyamardika@gmail.com</string>
+</resources>
